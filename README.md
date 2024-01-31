@@ -1,3 +1,20 @@
+# WayAround app
+
+Navigation app for indoor spaces.
+
+### configuration file
+
+.txt file with graph of your indoor space (every room is one node)
+in file 'data' is example of our faculty (not all floors for now)
+
+### starting app
+
+app is on local host only for now
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
