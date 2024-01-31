@@ -1,0 +1,74 @@
+Ase1 As132 Ase2 sexit   //vytah
+As132 A131 As133
+As131 A130 A132
+As130 A131s Ass
+Ass A130s sexit    //schody
+sexit Ass         //vchod do C - takze s necim spojit
+sexit2 Ase2 As122          //vchod do C
+As122 As122a sexit2
+As122a As122 As123
+As123 As122a As124
+As124 As123 As125
+As125 As124 As126
+As126 As125 As127
+As127 As128 As126
+As128 As127 As128a
+As128a As128 Ass1
+Ass1 As128A As140      //schody
+As140 Ass1 As135
+As135 As140 Ast
+Ast As135 As134        //hajzlee
+As134 As133 Ast
+As133 As132 Ase2
+Ase2 sexit2 As133    //vytah
+
+Ae exit A134   
+A134 Archi A136  
+A136 A1sprcha A134 A138 
+A1sprcha A136 Aprebal 
+Aprebal A1sprcha A138 
+A138 Aprebal At A139 
+At A138 A121 
+A139 A138 A140 
+A140 A139 A141 
+A141 A140 As 
+As A141 A128 
+A128 As A127 
+A127 A126 A128 
+A126 A125 A127 
+A125 A126 A124 
+A124 A125 A123 
+A123 A124 A125 
+A122 A121 A123 
+A121 At At1 A122 
+At1 A121 exit 
+exit Ae 
+exit1 As1 
+As1 exit1 A130 
+A130 A129 As1 A131 
+A131 A130 Archi 
+Archi A131 A134   //mustek na vchod do architektury
+
+Ae2 A229 exit2   //vytah 1
+A229 Ae2 A228 A230
+A228 A2s A229
+A2s A228 exitnic     //schody levo
+A230 A2t A229
+A2t A230 A233   //hajzle male
+A231 A2t A232
+A232 A233 A231
+A233 A232 As2
+As2 A233 A227    //schody vpravo
+A227 As2 A227a
+A227a A227 A226
+A226 A227a A225
+A225 A226 A224
+A224 A225 A223
+A223 A224 A222
+A222 A223 A217
+A217 A222 At2
+At2 A217 exit2    //hajlzle velke
+
+exit2A2e   //odchod do budovy C
+A2e A229   //vytah 2
+exitnicA2s
