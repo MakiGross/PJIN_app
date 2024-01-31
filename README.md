@@ -11,6 +11,9 @@ in file 'data' is example of our faculty (not all floors for now)
 
 app is on local host only for now
 
+App.tsx
+> npm run dev
+
 
 
 
