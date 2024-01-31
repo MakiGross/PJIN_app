@@ -20,7 +20,7 @@ C_schody22 C223 210 C_schody12
 
 B_vytah11   B168.4  bufet B_vytah21 B_vytah81	
 B168.4 B_vytah11  B168.2  B169.1
-B168.2 B168.4  Exit  B_vytah14
+B168.2 B168.4  Exit  B_vytah12
 Exit   B168.2  B163
 B163   Exit  B162
 B162   B163  B161
@@ -37,11 +37,11 @@ B154   Bt12  B152
 B152   B154  B151.b
 B151.b B152  B151
 B151   B151.b  B150
-B150   B151  B_schody11  B_vytah12
+B150   B151  B_schody11  B_vytah14
 B_schody11   B150  B102 B_schody24 B_schody82
 B102   B_schody11  B103
-B103   B102  B104  B_vytah12
-B_vytah12   B150  B103 B_vytah24 B_vytah84
+B103   B102  B104  B_vytah14
+B_vytah14   B150  B103 B_vytah24 B_vytah84
 B104   B103  B104a
 B104a  B104  B105
 B105   B104a  B105a
@@ -63,8 +63,8 @@ B117   B116  B118
 B118   B117  B119
 B119   B118  B120
 B120   B119  B176
-B176   B120   bufet  B_vytah14
-B_vytah14   B168.2  B176 B_vytah22 B_vytah82
+B176   B120   bufet  B_vytah12
+B_vytah12   B168.2  B176 B_vytah22 B_vytah82
 bufet  B176  B_schody12
 B_schody12   bufet  B170 C_schody01 B_schody26 B_schody83
 B170   B_schody12  B169.1
@@ -183,9 +183,9 @@ B881   Bd83  B880
 B880   B879  B881
 
 B_vytah11 B_vytah81
-B_vytah14 B_vytah82
+B_vytah12 B_vytah82
 B_vytah13 B_vytah83
-B_vytah12 B_vytah84
+B_vytah14 B_vytah84
 B_vytah21 B_vytah81
 B_vytah22 B_vytah82
 B_vytah23 B_vytah83
