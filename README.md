@@ -7,6 +7,8 @@ Navigation app for indoor spaces.
 .txt file with graph of your indoor space (every room is one node)
 in file 'data' is example of our faculty (not all floors for now)
 
+In folder data
+
 ### starting app
 
 app is on local host only for now
@@ -21,10 +23,11 @@ App.tsx
 
 ## Sources
 - Vite.js
+- Chakra UI
 
 
 
-
+App is made for CTU Prague, faculty of civil engineering, PJIN
 
 
 # React + TypeScript + Vite
