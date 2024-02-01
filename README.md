@@ -27,7 +27,7 @@ App.tsx
 
 
 
-
+App is made for CTU Prague, faculty of civil engineering, PJIN
 
 
 # React + TypeScript + Vite
