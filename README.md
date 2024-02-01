@@ -14,6 +14,15 @@ app is on local host only for now
 App.tsx
 > npm run dev
 
+### picture/plan of the space
+
+- you can change the picture to your's plan of indoor space that you want to navigate or just get here some nice picture of your building 
+- change it in App.tsx (line 33)
+
+## Sources
+- Vite.js
+
+
 
 
 
