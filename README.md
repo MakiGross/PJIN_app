@@ -7,14 +7,14 @@ Navigation app for indoor spaces.
 .txt file with graph of your indoor space (every room is one node)
 in file 'data' is example of our faculty (not all floors for now)
 
-In folder data
+test data or our data in folder 'data'
 
 ### starting app
 
 app is on local host only for now
-
-App.tsx
-> npm run dev
+folder src:
+- App.tsx
+- > npm run dev
 
 ### picture/plan of the space
 
