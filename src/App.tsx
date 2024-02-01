@@ -1,12 +1,10 @@
 import React from "react";
 import {
   Button,
-  Box,
-  Image,
-  Heading,
   Stack,
   Input,
-  Text,
+  Image,
+  Box,
 } from "@chakra-ui/react";
 import Search from './components/bfs'
 
@@ -63,6 +61,9 @@ function App() {
     <div>
       {path}
     </div>
+    <Box>
+      <Image src='https://pages.fit.cvut.cz/ict/documents/floorplans/th-overview-1-public-parsed-web.svg'/>
+    </Box>
     
     </Stack>
     )
