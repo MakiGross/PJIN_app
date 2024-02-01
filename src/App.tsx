@@ -5,6 +5,7 @@ import {
   Input,
   Image,
   Box,
+  Text,
 } from "@chakra-ui/react";
 import Search from './components/bfs'
 
@@ -29,9 +30,8 @@ function App() {
     bg = 'lightblue'
     h = '100%'
   >
-    <div>
-      Way Around
-    </div>
+    <Text fontSize = '4xl' > WayAround</Text>
+    
     <div>
       Konfigurační soubor:
       <div>
