@@ -30,6 +30,9 @@ function App() {
     h = '100%'
   >
     <div>
+      Way Around
+    </div>
+    <div>
       Konfigurační soubor:
       <div>
         <input type="file" onChange={(f) => getFile(f)} />
