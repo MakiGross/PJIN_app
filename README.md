@@ -12,9 +12,8 @@ test data or our data in folder 'data'
 ### starting app
 
 app is on local host only for now
-- folder src:
-- App.tsx
- > npm run dev
+- Terminal - be in app folder (> PJIN_APP)
+   > npm run dev
 
 ### picture/plan of the space
 
