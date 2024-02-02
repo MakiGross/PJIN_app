@@ -12,9 +12,9 @@ test data or our data in folder 'data'
 ### starting app
 
 app is on local host only for now
-folder src:
+- folder src:
 - App.tsx
-- > npm run dev
+ > npm run dev
 
 ### picture/plan of the space
 
